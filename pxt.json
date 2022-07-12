@@ -1,0 +1,13 @@
+{
+  "name": "makecode_bitwise",
+  "version": "0.0.0",
+  "description": "Bitwise integer operations for micro:bit MakeCode (AND, OR, XOR, NOT).",
+  "dependencies": {
+    "core": "*"
+  },
+  "files": ["README.md", "main.ts"],
+  "public": true,
+  "supportedTargets": ["microbit"],
+  "preferredEditor": "blocksprj",
+  "license": "MIT"
+}
