@@ -1,6 +1,6 @@
 {
     "name": "makecode_bitwise",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Bitwise integer operations for micro:bit MakeCode (AND, OR, XOR, NOT).",
     "license": "MIT",
     "dependencies": {
