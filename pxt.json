@@ -1,5 +1,5 @@
 {
-    "name": "makecode_bitwise",
+    "name": "pxt-bitwise",
     "version": "1.0.1",
     "description": "Bitwise integer operations for micro:bit MakeCode (AND, OR, XOR, NOT).",
     "license": "MIT",
