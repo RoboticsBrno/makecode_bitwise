@@ -11,6 +11,9 @@ let z = bitwise.xor(0x1014, 0x10) // z === 0x1004
 let n = bitwise.not(0x1000) // n === -0x1001
 ```
 
+## License
+ The extension is MIT licensed (https://tldrlegal.com/license/mit-license). This licensing is easy to understand and use and ensures sustainability. 
+ 
 #### Metadata (used for search, rendering)
 
 * for PXT/microbit
